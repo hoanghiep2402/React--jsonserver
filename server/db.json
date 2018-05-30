@@ -1,0 +1,379 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Cơm bò Hải Nam",
+      "price": "50000",
+      "description": "Cơm bò ngon nhất Sài Thành"
+    },
+    {
+      "id": "nUsPhdz",
+      "name": "Hủ tiếu nam vang",
+      "price": "40000",
+      "description": "Hủ tiếu Nam Vang nổi tiếng"
+    },
+    {
+      "id": "gJwoQXu",
+      "name": "Ốp la bánh mì",
+      "price": 20000,
+      "description": "Chà bông chả cá"
+    },
+    {
+      "id": "vUJrCaM",
+      "name": "Cơm sườn ram",
+      "price": "40000",
+      "description": "Cơm ngon ngon"
+    },
+    {
+      "id": "D4yy4hI",
+      "name": "Trà đá vỉa hè",
+      "price": 5000,
+      "description": "Trà đá bao gồm nước trà và đá\n"
+    },
+    {
+      "id": "RUfjQPf",
+      "name": "Coca-cola",
+      "price": 15000,
+      "description": "Coca bao gồm coca và cola"
+    }
+  ],
+  "bill2652018": [
+    {
+      "id": "reSvqRo2p",
+      "total": 150000,
+      "discount": 20000,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 3
+        }
+      ],
+      "person": "Admin",
+      "time": "13:58",
+      "tableId": 2
+    },
+    {
+      "id": "CrWGKa2ly",
+      "total": 400000,
+      "discount": 0,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 8
+        }
+      ],
+      "person": "Admin",
+      "time": "14:8",
+      "tableId": 2
+    },
+    {
+      "id": "0XehqWZ90",
+      "total": 80000,
+      "discount": 10000,
+      "foods": [
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 4
+        }
+      ],
+      "person": "Admin",
+      "time": "14:12",
+      "tableId": 5
+    },
+    {
+      "id": "sONxBFYID",
+      "total": 400000,
+      "discount": 0,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 6
+        },
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 2
+        },
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "0:25",
+      "tableId": 1
+    },
+    {
+      "id": "ClGXWhsPf",
+      "total": 330000,
+      "discount": 50000,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 3
+        },
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 3
+        },
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 3
+        }
+      ],
+      "person": "Admin",
+      "time": "3:44",
+      "tableId": 1
+    }
+  ],
+  "bill2752018": [
+    {
+      "id": "CHAqF0cWd",
+      "total": 190000,
+      "discount": 90000,
+      "foods": [
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 3
+        },
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "3:48",
+      "tableId": 2
+    }
+  ],
+  "bill2852018": [],
+  "bill2952018": [
+    {
+      "id": "yRONDRKHX",
+      "total": 100000,
+      "discount": 0,
+      "foods": [
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 5
+        }
+      ],
+      "person": "Admin",
+      "time": "11:6",
+      "tableId": 1
+    },
+    {
+      "id": "ECJABhkhO",
+      "total": 340000,
+      "discount": 20000,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 6
+        },
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "11:6",
+      "tableId": 1
+    },
+    {
+      "id": "zfx7mNmCS",
+      "total": 200000,
+      "discount": 0,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 4
+        }
+      ],
+      "person": "Admin",
+      "time": "13:59",
+      "tableId": 1
+    },
+    {
+      "id": "9PX0kjDtR",
+      "total": 340000,
+      "discount": 20000,
+      "foods": [
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 4
+        },
+        {
+          "id": "vUJrCaM",
+          "name": "Cơm sườn ram",
+          "price": "40000",
+          "quantity": 4
+        },
+        {
+          "id": "gJwoQXu",
+          "name": "Trứng ốp la bánh mì",
+          "price": 20000,
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "14:6",
+      "tableId": 1
+    }
+  ],
+  "bill3052018": [
+    {
+      "id": "9gr96OCKs",
+      "total": 55000,
+      "discount": 5000,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 1
+        },
+        {
+          "id": "D4yy4hI",
+          "name": "Trà đá vỉa hè",
+          "price": 5000,
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "9:39",
+      "tableId": 1
+    },
+    {
+      "id": "3RtvnPgsi",
+      "total": 120000,
+      "discount": 10000,
+      "foods": [
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 3
+        }
+      ],
+      "person": "Admin",
+      "time": "9:41",
+      "tableId": 1
+    },
+    {
+      "id": "XJpTX2iFI",
+      "total": 95000,
+      "discount": 100000,
+      "foods": [
+        {
+          "id": "D4yy4hI",
+          "name": "Trà đá vỉa hè",
+          "price": 5000,
+          "quantity": 1
+        },
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "9:45",
+      "tableId": 1
+    },
+    {
+      "id": "UXA1q8wcY",
+      "total": 55000,
+      "discount": 0,
+      "foods": [
+        {
+          "id": 2,
+          "name": "Cơm bò Hải Nam",
+          "price": "50000",
+          "quantity": 1
+        },
+        {
+          "id": "D4yy4hI",
+          "name": "Trà đá vỉa hè",
+          "price": 5000,
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "10:36",
+      "tableId": 2
+    },
+    {
+      "id": "C8rMtsyOA",
+      "total": 75000,
+      "discount": 10000,
+      "foods": [
+        {
+          "id": "nUsPhdz",
+          "name": "Hủ tiếu nam vang",
+          "price": "40000",
+          "quantity": 1
+        },
+        {
+          "id": "gJwoQXu",
+          "name": "Ốp la bánh mì",
+          "price": 20000,
+          "quantity": 1
+        },
+        {
+          "id": "RUfjQPf",
+          "name": "Coca-cola",
+          "price": 15000,
+          "quantity": 1
+        }
+      ],
+      "person": "Admin",
+      "time": "10:36",
+      "tableId": 1
+    }
+  ]
+}
